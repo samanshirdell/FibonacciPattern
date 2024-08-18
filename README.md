@@ -18,4 +18,4 @@ This is a simple Python program that generates the Fibonacci sequence up to a sp
 2. Clone this repository or download the source code.
 
    ```bash
-   git clone https://github.com/samanshirdell/fibonacci-program.git
+   git clone https://github.com/samanshirdell/FibonacciPattern.git
